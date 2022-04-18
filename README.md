@@ -33,8 +33,6 @@
 
   ![budget.png](public/icons/graph.png)
 
-  Link to Deployed Application:  
-  https://jacobgit3.github.io/Budget-Tracker-PWA/
 
   ## Credits
 
